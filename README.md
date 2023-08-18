@@ -22,6 +22,11 @@ Demonstrates Kotlin programming in an Android app context.
 Contributing
 
 We welcome feedback, translations, and code contributions!❤️
+Donation
+
+If this project help you reduce time to develop, you can give me a cup of coffee :)😉
+
+paypal
 
 
 https://github.com/kamranfunsol23/RecyclerView-With-Swipe/assets/97092169/a905661b-3b39-424d-a933-89754f4e8dcc
