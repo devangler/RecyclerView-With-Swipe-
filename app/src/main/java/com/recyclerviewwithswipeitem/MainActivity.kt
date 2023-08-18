@@ -7,7 +7,6 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.recyclerviewwithswipeitem.adapters.RecycleViewAdapter
 import java.util.Collections
-
 class MainActivity : AppCompatActivity() {
     private lateinit var recyclerView: RecyclerView
     private lateinit var adapter: RecycleViewAdapter
@@ -41,7 +40,6 @@ class MainActivity : AppCompatActivity() {
 
                 return true
             }
-
             override fun onSwiped(viewHolder: RecyclerView.ViewHolder, direction: Int) {
                 val position = viewHolder.adapterPosition
                 itemList.removeAt(position)
