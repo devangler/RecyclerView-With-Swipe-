@@ -24,9 +24,10 @@ Contributing
 We welcome feedback, translations, and code contributions!❤️
 Donation
 
+
 If this project help you reduce time to develop, you can give me a cup of coffee :)😉
 
-paypal
+![68747470733a2f2f7777772e70617970616c6f626a656374732e636f6d2f656e5f55532f692f62746e2f62746e5f646f6e61746543435f4c472e676966](https://github.com/kamranfunsol23/RecyclerView-With-Swipe/assets/97092169/a357de7f-2051-4d6b-8606-40d5719e5709)
 
 
 https://github.com/kamranfunsol23/RecyclerView-With-Swipe/assets/97092169/a905661b-3b39-424d-a933-89754f4e8dcc
