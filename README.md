@@ -1,5 +1,5 @@
 # RecyclerView-With-Swipe
-Project Title: RecyclerView Swipe Actions (Kotlin)
+<b> Project Title:<b/> RecyclerView Swipe Actions (Kotlin)
 
 Description:
 This project demonstrates the implementation of a RecyclerView with swipe actions using Kotlin for Android app development. The app showcases two types of swipe interactions:
