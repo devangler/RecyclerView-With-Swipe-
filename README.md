@@ -18,3 +18,7 @@ Reorder items by swiping up or down.
 Delete items by swiping left or right.
 Utilizes ItemTouchHelper for swipe actions and reordering.
 Demonstrates Kotlin programming in an Android app context.
+
+Contributing
+
+We welcome feedback, translations, and code contributions!❤️
